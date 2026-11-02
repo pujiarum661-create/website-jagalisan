@@ -1,0 +1,9 @@
+{
+  "name": "Jaga Lisan",
+  "short_name": "Jaga Lisan",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f8f5ec",
+  "theme_color": "#1b4332",
+  "icons": [{ "src": "assets/images/logo.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
